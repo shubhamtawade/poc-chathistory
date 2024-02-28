@@ -1,0 +1,12 @@
+.tasks-container {
+  padding: 1rem;
+}
+.tasks-block {
+  margin-top: 1rem;
+  min-width: 20rem;
+  width: fit-content;
+  background-color: #f6f6f6;
+}
+.tasks-block p {
+  margin-top: 1rem;
+}
